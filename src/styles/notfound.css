@@ -1,0 +1,11 @@
+.alert {
+  --bs-alert-color: #055160;
+  --bs-alert-bg: #cff4fc;
+  --bs-alert-border-color: #b6effb;
+  --bs-alert-padding-x: 1rem;
+  --bs-alert-padding-y: 1rem;
+  --bs-alert-margin-bottom: 1rem;
+  display: block;
+  unicode-bidi: isolate;
+  text-align: center;
+}

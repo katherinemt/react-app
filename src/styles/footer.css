@@ -1,0 +1,10 @@
+.shop__footer {
+  padding: 1.5rem !important;
+  background-color: rgb(166, 142, 252);
+}
+.shop__footer_col {
+  flex: 1 0 0%;
+}
+.shop__footer_col > h5 {
+  text-transform: uppercase !important;
+}
